@@ -1,3 +1,7 @@
+/* multiplicationChart.js
+   Generates a multiplication chart based on user-defined ranges.
+   - Benjamin Tenney (benjamin_tenney@student.uml.edu)
+*/
 generateTable = function()
     {
         let handler = document.getElementById("tableButton");
